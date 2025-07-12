@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm [chandan kumar]
 
 🎯 **Full Stack Developer** | 💻 JavaScript & Python Enthusiast | 🌍 Open Source Contributor | 🚀 Lifelong Learner
 
@@ -76,16 +76,16 @@ Welcome to my GitHub! I’m a passionate developer with a knack for building sca
 ## 🚀 Featured Projects
 
 - **Project Name 1** – Short description  
-  🔗 [GitHub Repo](#) • 🌐 [Live Demo](#)
+  🔗 [https://projectuploader.vercel.app/](#) • 🌐 [Live Demo](#)
 
 - **Project Name 2** – Short description  
-  🔗 [GitHub Repo](#) • 🌐 [Live Demo](#)
+  🔗 [https://chandanbca143.github.io/Simple-Quiz/](#) • 🌐 [Live Demo](#)
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- ✅ Completed [Certification Name] from [Platform]
+- ✅ Completed [City of Moreton Bay's] from [forage]
 - 🏅 Hackathon Winner – [Event Name]
 - 🧩 Open Source Contributor @ [Project Name]
 - 🎖️ 100+ GitHub contributions this year!
@@ -113,10 +113,10 @@ I believe in writing clean, maintainable, and testable code. I enjoy learning fr
 
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📧 Email: [you@example.com](mailto:you@example.com)
+- 🌐 Portfolio: [https://chandanbca143.github.io/Portfolio/](https://chandanbca143.github.io/Portfolio/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/chandan-singh-60831123a/](https://www.linkedin.com/in/chandan-singh-60831123a/)
+- 🐦 Github: [https://github.com/chandanbca143](https://github.com/chandanbca143)
+- 📧 Email: [chandan143indian@gmail.com](mailto:chandan143indain@gmail.com)
 
 ---
 
